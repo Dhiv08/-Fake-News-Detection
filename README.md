@@ -1,4 +1,4 @@
-# -Fake-News-Detection
+# Fake-News-Detection
 
 ##Machine Learning Web Application
 
