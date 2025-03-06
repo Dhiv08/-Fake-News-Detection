@@ -40,4 +40,8 @@ Tech Stack
 	•	Streamlit (Web UI)
 	•	Pandas (Data Handling)
 
+ ![Image](https://github.com/user-attachments/assets/011529bb-1489-43eb-b658-f645cffc9b46)
+
+![Image](https://github.com/user-attachments/assets/376b3c7d-7a0b-45aa-8655-b3d31d24c4cc)
+
 
